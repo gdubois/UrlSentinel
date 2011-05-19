@@ -1,0 +1,4 @@
+UrlSentinel
+
+Monitors a set of URLs.
+When one changes, the users is notified
