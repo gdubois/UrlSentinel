@@ -2,3 +2,7 @@ UrlSentinel
 
 Monitors a set of URLs.
 When one changes, the users is notified
+
+OS supported:
+- Windows
+- Linux (mostly)

@@ -39,3 +39,5 @@ HEADERS  += mainwindow.h \
     global.h \
     favicon.h \
     centralwidget.h
+
+RC_FILE = icon.rc
